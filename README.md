@@ -60,6 +60,10 @@ Eigen-decomposition: matrix A must be symmetric
   <img src=https://www.sharetechnote.com/image/EngMath_Matrix_EigenDecomposition_02.png width=400 />
 </p>
 
+## CUR Decomposition
 
+<p align="center">
+  <img src=https://pic3.zhimg.com/80/v2-6aea9e4cf4c970e9f86f202257cc9d32_1440w.jpg width=600 />
+</p>
 
 
