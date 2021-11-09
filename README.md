@@ -50,7 +50,9 @@ Users-to-Movies Example:
 2. Sigma: strength of each concept
 3. V^T: movie -> movie concepts
 
-SVD for dimensionality reduction: set smallest singular values to zero, best low rank approximation
+SVD for dimensionality reduction: set smallest singular values to zero, best low rank approximation (i.e. spectral decomposition: matrix is the sum of k terms)
+
+Rule-of-thumb on how many singular values to be kept: keep 80%-90% of 'energy' (i.e. sum of all squared singular values). 
 
 
 
