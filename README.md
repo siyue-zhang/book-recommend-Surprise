@@ -54,8 +54,10 @@ SVD for dimensionality reduction: set smallest singular values to zero, best low
 
 Rule-of-thumb on how many singular values to be kept: keep 80%-90% of 'energy' (i.e. sum of all squared singular values). 
 
-
-
+Eigen-decomposition: matrix A must be symmetric
+<p align="center">
+  <img src=https://www.sharetechnote.com/image/EngMath_Matrix_EigenDecomposition_02.png width=300 />
+</p>
 
 
 
