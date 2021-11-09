@@ -47,6 +47,7 @@ It's **always** possible to decompose a real matrix into left singular vector, s
 
 Users-to-Movies Example:
 1. U: user -> movie concepts
-2. Sigma: concept strength
+2. Sigma: strength of each concept
 3. V^T: movie -> movie concepts
+
 
