@@ -45,3 +45,8 @@ It's **always** possible to decompose a real matrix into left singular vector, s
   <img src=https://static.packt-cdn.com/products/9781783551606/graphics/4e190bb0-35bd-4680-820d-1c91feeb0246.png width=300 />
 </p>
 
+Users-to-Movies Example:
+1. U: user -> movie concepts
+2. Sigma: concept strength
+3. V^T: movie -> movie concepts
+
