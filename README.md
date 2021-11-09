@@ -39,8 +39,9 @@ Dimensionality reduction finds a subspace whose axes are effective representatio
 
 ## Singular Value Decomposition
 
+It's **always** possible to decompose a real matrix into left singular vector, sigma, right singular vector. The decomposition is unique. Left and right vectors are column orthonormal (i.e. U^T U = I, V^T V = I). Singular values are positive and sorted in decreasing order.
+
 <p align="center">
   <img src=https://static.packt-cdn.com/products/9781783551606/graphics/4e190bb0-35bd-4680-820d-1c91feeb0246.png width=300 />
 </p>
-
 
