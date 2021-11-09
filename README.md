@@ -6,6 +6,6 @@ This project is to recommend books to readers based their book ratings from [Boo
 
 The long-tail problem is common especially in the digital market where the commodity stock is enormous. The graph below shows the distribution of ratings or popularity among items or products in marketplace. While popular items (highly rated by a large number of customers) in blue area consist of a significant part of market value, the unpopular or new items in green area also represent a remarkable share. To satisfy the demand in the long tail, customized recommendation to customers is critical.
 
-<div>
-    <img class="marginauto" src="https://miro.medium.com/max/1088/1*9V4i7s4ZxFHMxylZdd6KQg.png" width=400 alt="centered image" />
-</div>
+<p align="center">
+  <img src="https://miro.medium.com/max/1088/1*9V4i7s4ZxFHMxylZdd6KQg.png" width=400 />
+</p>
