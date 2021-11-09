@@ -12,9 +12,23 @@ The long-tail problem is common especially in the digital market where the commo
 
 ## Types of recommendation systems
 
-1. Content based recommendation
-2. Collaberative filtering
-* User-user
-* Item-item
-* Combined baseline with CF 
-3. Latent factor based recommendation
+1. Content Based Recommendation
+
+Content-based filtering methods are based on a description of the item and a profile of the user's preferences. These methods are best suited to situations where there is known data on an item (name, location, description, etc.), but not on the user. Content-based recommenders treat recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features.
+
+Similarities:
+* Jaccard Similarity
+* Cosine Similarity
+* Centered Cosine Similarity
+
+2. Collaberative Filtering: Neighborhood Methods
+
+Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users. It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user. It looks at the items they like and combines them to create a ranked list of suggestions.
+
+* User-user CF
+* Item-item CF
+* Combine baseline with CF
+
+3. Collaberative Filtering: Latent factors Methods
+
+Matrix factorization algorithms work by decomposing the user-item interaction matrix into the product of two lower dimensionality rectangular matrices.
