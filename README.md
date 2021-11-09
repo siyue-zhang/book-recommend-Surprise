@@ -9,3 +9,12 @@ The long-tail problem is common especially in the digital market where the commo
 <p align="center">
   <img src="https://miro.medium.com/max/1088/1*9V4i7s4ZxFHMxylZdd6KQg.png" width=400 />
 </p>
+
+## Types of recommendation systems
+
+1. Content based recommendation
+2. Collaberative filtering
+* User-user
+* Item-item
+* Combined baseline with CF 
+3. Latent factor based recommendation
