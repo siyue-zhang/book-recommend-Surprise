@@ -12,7 +12,7 @@ The long-tail problem is common especially in the digital market where the commo
 
 ## Types of recommendation systems
 
-**Objective**: to predict high ratings
+**Objective: to predict high ratings**
 
 1. Content Based Recommendation
 
