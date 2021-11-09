@@ -5,4 +5,5 @@ This project is to recommend books to readers based their book ratings from [Boo
 ## What recommendation system for?
 
 The following long-tail graph shows the distribution of ratings or popularity among items or products in marketplace. While popular items (highly rated by a large number of customers) in blue area consist of a significant part of market value, the unpopular or new items in green area also represent a remarkable share.
+
 <img src="https://miro.medium.com/max/1088/1*9V4i7s4ZxFHMxylZdd6KQg.png" width=600 />
