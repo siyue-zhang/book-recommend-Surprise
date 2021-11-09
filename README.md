@@ -39,6 +39,8 @@ Dimensionality reduction finds a subspace whose axes are effective representatio
 
 ## Singular Value Decomposition
 
-$A_{m x n} = U_{m x r} \sum_{r x r} (V_{n x r})^T$
+<p align="center">
+  <img src=https://static.packt-cdn.com/products/9781783551606/graphics/4e190bb0-35bd-4680-820d-1c91feeb0246.png width=300 />
+</p>
 
 
