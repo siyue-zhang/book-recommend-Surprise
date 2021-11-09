@@ -34,3 +34,11 @@ Collaborative filtering is a technique that can filter out items that a user mig
 3. Collaberative Filtering: Latent factors Methods
 
 Matrix factorization algorithms work by decomposing the user-item interaction matrix into the product of two lower dimensionality rectangular matrices.
+
+Dimensionality reduction finds a subspace whose axes are effective representation of the data. Rank of matrix tells the number of linearly indepent columns of the matrix.
+
+## Singular Value Decomposition
+
+$A_{m x n} = U_{m x r} \sum_{r x r} (V_{n x r})^T$
+
+
