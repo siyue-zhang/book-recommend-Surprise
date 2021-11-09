@@ -62,6 +62,8 @@ Eigen-decomposition: matrix A must be symmetric
 
 ## CUR Decomposition
 
+Select columns and rows from matrix A to form C and R
+
 <p align="center">
   <img src=https://pic3.zhimg.com/80/v2-6aea9e4cf4c970e9f86f202257cc9d32_1440w.jpg width=600 />
 </p>
