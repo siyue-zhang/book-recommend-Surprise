@@ -50,4 +50,10 @@ Users-to-Movies Example:
 2. Sigma: strength of each concept
 3. V^T: movie -> movie concepts
 
+SVD for dimensionality reduction: set smallest singular values to zero, best low rank approximation
+
+
+
+
+
 
