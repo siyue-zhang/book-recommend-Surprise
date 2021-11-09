@@ -10,6 +10,10 @@ The long-tail problem is common especially in the digital market where the commo
   <img src="https://miro.medium.com/max/1088/1*9V4i7s4ZxFHMxylZdd6KQg.png" width=400 />
 </p>
 
+## Objective
+
+* Predict high ratings -> precision at top k
+
 ## Types of recommendation systems
 
 1. Content Based Recommendation
