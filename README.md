@@ -77,7 +77,6 @@ k factors latent space, e.g.:
 1. Serious VS Funny
 2. Geared towards females VS Geared towards males
 ...
-100. Factor 100
 
 SVD isn't defined when entries are missing! Use specialized methods to find P, Q and solve the optimization problem.
 
