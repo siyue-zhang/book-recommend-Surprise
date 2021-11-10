@@ -60,11 +60,29 @@ Eigen-decomposition: matrix A must be symmetric
   <img src=https://www.sharetechnote.com/image/EngMath_Matrix_EigenDecomposition_02.png width=400 />
 </p>
 
-## Modern Recommender Systems
+## Modern Recommender System
 
 Multi-scale modeling of the data
 1. **Global**: top level overall deviations of users/movies from average ratings, baseline estimation
 2. **Factorization**: addressing regional effects
 3. **Collaberative filtering**: extract local patterns, local neighborhood (CN/NN), derive unknnown ratings from those of "similar" movies (item-item variant)
+
+## Latent Factor Recommender System
+
+<p align="center">
+  <img src=https://www.researchgate.net/profile/Jun-Xu-67/publication/321344494/figure/fig1/AS:702109309751298@1544407312766/Diagram-of-matrix-factorization.png width=500 />
+</p>
+
+k factors latent space, e.g.:
+1. Serious VS Funny
+2. Geared towards females VS Geared towards males
+...
+100. Factor 100
+
+SVD isn't defined when entries are missing! Use specialized methods to find P, Q and solve the optimization problem.
+
+<p align="center">
+  <img src="./images/goal.png" width=400 />
+</p>
 
 
