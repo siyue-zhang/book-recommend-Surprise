@@ -96,8 +96,9 @@ Loss = Error + lamda * Length
   <img src=https://slidetodoc.com/presentation_image_h/0159d8901a15a78e803150636709b1b7/image-24.jpg width=500 />
 </p>
 
+## Further Improvements
 
-
-
+1. Temporal Biases of Users, adding temporal effects
+2. Ensemabled 130 different recommender systems
 
 
