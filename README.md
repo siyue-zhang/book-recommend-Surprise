@@ -94,7 +94,7 @@ Loss = Error + lamda * Length
 ### Stochastic Gradient Descent
 
 <p align="center">
-  <img src=https://slidetodoc.com/presentation_image_h/0159d8901a15a78e803150636709b1b7/image-24.jpg width=350 />
+  <img src=https://slidetodoc.com/presentation_image_h/0159d8901a15a78e803150636709b1b7/image-24.jpg width=500 />
 </p>
 
 
