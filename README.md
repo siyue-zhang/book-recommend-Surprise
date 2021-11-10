@@ -82,7 +82,23 @@ k factors latent space, e.g.:
 SVD isn't defined when entries are missing! Use specialized methods to find P, Q and solve the optimization problem.
 
 <p align="center">
-  <img src="./images/goal.png" width=400 />
+  <img src="./images/goal.png" width=350 />
 </p>
+
+### Regularization
+
+Large k (# of factors) -> tend to become overfitting -> hard to generalize for unseen data
+
+Loss = Error + lamda * Length
+
+### Stochastic Gradient Descent
+
+<p align="center">
+  <img src=https://slidetodoc.com/presentation_image_h/0159d8901a15a78e803150636709b1b7/image-24.jpg width=350 />
+</p>
+
+
+
+
 
 
